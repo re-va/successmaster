@@ -4451,9 +4451,10 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rmHhRxnp8B {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/lem-x-589x830.jpg");
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #f9f295;
+  background: linear-gradient(45deg, #f9f295, #232323);
 }
 @media (min-width: 992px) {
   .cid-rmHhRxnp8B .mbr-figure {
@@ -4467,6 +4468,30 @@ body {
 }
 @media (max-width: 767px) {
   .cid-rmHhRxnp8B .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rmHhRxnp8B .mbr-text,
+.cid-rmHhRxnp8B .mbr-section-btn P {
+  text-align: left;
+}
+.cid-rnddiiQbh0 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+@media (min-width: 992px) {
+  .cid-rnddiiQbh0 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnddiiQbh0 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rnddiiQbh0 .mbr-text {
     text-align: center;
   }
 }
